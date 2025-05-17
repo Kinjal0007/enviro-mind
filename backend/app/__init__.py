@@ -1,0 +1,3 @@
+"""
+EnviroMind Backend Application
+""" 
