@@ -43,3 +43,8 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# API Keys and sensitive configuration
+lib/config/api_keys.dart
+android/local.properties
+ios/Runner/GoogleService-Info.plist
